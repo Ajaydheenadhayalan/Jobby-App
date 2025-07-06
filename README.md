@@ -32,3 +32,15 @@
 - CSS / Responsive Design  
 - Loader Spinner from `react-loader-spinner`  
 - Icons from `react-icons`  
+
+---
+
+## 🔐 Login Credentials
+
+To access the app, use the following test credentials:
+
+```json
+{
+  "username": "rahul",
+  "password": "rahul@2021"
+}
